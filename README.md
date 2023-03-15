@@ -1,4 +1,4 @@
-# Fork from [xerta555/CloudflareDNS4Magisk](https://github.com/xerta555/CloudflareDNS4Magisk)
+# Fork from [xerta555/CloudflareDNS4Magisk](https://github.com/xerta555/CloudflareDNS4Magisk-IPv6)
 <h1 align="center">
 <img src="https://i.postimg.cc/nhM0RMkp/adguard.png">
 <br />
