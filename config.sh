@@ -40,11 +40,11 @@ LATESTARTSERVICE=true
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     CloudflareDNS4Magisk      "
-  ui_print "              2.6              "
-  ui_print "     By Rom for Magisk v17+    "
-  ui_print "*******************************"
+  ui_print "******************************************"
+  ui_print "             AdGuardDNS4Magisk            "
+  ui_print "                    2.7f                  "
+  ui_print " By TukangM fork from Rom for Magisk v17+ "
+  ui_print "******************************************"
 }
 
 ##########################################################################################
